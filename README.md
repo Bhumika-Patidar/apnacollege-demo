@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my first Git Repositor
+this is my first Git Repository. 
 Author-Bhumika Patidar
